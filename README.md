@@ -1,0 +1,3 @@
+# static
+
+Some static files.
